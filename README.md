@@ -1,0 +1,1 @@
+Project was part of my master Data Science and Finance thesis. It is also uploaded in this repository. Unfortunately, dataset used for this project for gifted by Crunchbase I cannot share it. For obtaining similar data for study purposes, it is posible to contact Crunchabase directly :-)
